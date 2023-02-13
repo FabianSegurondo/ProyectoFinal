@@ -1,7 +1,7 @@
 import React from 'react';
 import {SafeAreaView, Text, View} from 'react-native';
 import {withTheme, configureFonts} from 'react-native-paper';
-import Route from './src/navigation/Route';
+import Route from './src/navigation/stackNavigation';
 import {
   MD3LightTheme as DefaultTheme,
   Provider as PaperProvider,
